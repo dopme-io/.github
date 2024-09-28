@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/5d7bc7ea-b60e-427f-9f11-0481e508a6df)
-
-### Bem-vindo ao dopme.io
+# Bem-vindo ao dopme.io 👋
 
 Aqui, você encontrará uma coleção de conteúdos voltados para o desenvolvimento de software e tecnologia. Meu objetivo é compartilhar conhecimento e insights sobre fundamentos de programação, desenvolvimento web, APIs e tópicos avançados que estão moldando o futuro da tecnologia.
 
