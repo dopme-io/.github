@@ -1,4 +1,4 @@
-# Bem-vindo ao dopme.io 👋
+<img width="363" height="182" alt="dopme io" src="https://github.com/user-attachments/assets/8e67c51b-687d-4f9c-81d8-3d1591cc7059" />
 
 O **dopme.io** é uma plataforma voltada à inovação, engenharia de software e compartilhamento de conhecimento técnico de alto nível. Com foco em desenvolvimento web, APIs, arquitetura de sistemas e tendências tecnológicas, o ambiente foi projetado para apoiar profissionais, entusiastas e organizações que buscam excelência e atualização contínua no setor de tecnologia.
 
