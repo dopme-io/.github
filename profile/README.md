@@ -4,7 +4,7 @@
   <!-- <img width="663" height="69" src="https://github.com/user-attachments/assets/37b9c111-c769-4828-9dca-8abd5d0f9d43" /> -->
 </p>
 
-O **dopme.io** é uma plataforma voltada à inovação, engenharia de software e compartilhamento de conhecimento técnico de alto nível. Com foco em desenvolvimento web, APIs, arquitetura de sistemas e tendências tecnológicas, o ambiente foi projetado para apoiar profissionais, entusiastas e organizações que buscam excelência e atualização contínua no setor de tecnologia.
+O **[dopmeio](https://dopme.io/)** é uma plataforma voltada à inovação, engenharia de software e compartilhamento de conhecimento técnico de alto nível. Com foco em desenvolvimento web, APIs, arquitetura de sistemas e tendências tecnológicas, o ambiente foi projetado para apoiar profissionais, entusiastas e organizações que buscam excelência e atualização contínua no setor de tecnologia.
 
 A base de conteúdo da plataforma é composta por materiais especializados, cuidadosamente organizados para oferecer uma jornada completa de aprendizado e evolução:
 
