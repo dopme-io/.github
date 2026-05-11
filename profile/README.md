@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="263" height="192" alt="dopme io" src="../assests/dopme.png" />
+  <img width="490" height="110" alt="dopme io" src="../assests/dopme.png" />
 </br>
   <!-- <img width="663" height="69" src="https://github.com/user-attachments/assets/37b9c111-c769-4828-9dca-8abd5d0f9d43" /> -->
 </p>
